@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 </div>
 <img src="https://komarev.com/ghpvc/?username=VerP404&style=flat-square&color=blue" alt=""/>
 👨🏻‍💻 About Me:
-
-* 💻 I`m python backend developer;
-* 📈 I am a specialist in creating web applications for collecting, processing, analyzing and visualizing data;
-* 🔭 I have great experience working with Django, DRF, Flask, Dash, SQL, Pandas, Selenuum, Beautiful Soup;
-* 📖 I'm currently learning the FASTAPI framework;
-* 💡 I have extensive experience managing an IT team;
-* 💡 I solve various problems on CodeWars.
-
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 50px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" data-target="animated-image.originalLink"><img align="right" src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" data-canonical-src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" style="width: 50px; max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image></p> 
+<ul>
+  <li>💻 I'm a Python backend developer;</li>
+  <li>📈 I am a specialist in creating web applications for collecting, processing, analyzing, and visualizing data;</li>
+  <li>🔭 I have great experience working with Django, DRF, Flask, Dash, SQL, Pandas, Selenium, Beautiful Soup;</li>
+  <li>📖 I'm currently learning the FASTAPI framework;</li>
+  <li>💡 I have extensive experience managing an IT team;</li>
+  <li>💡 I solve various problems on CodeWars.</li>
+</ul>

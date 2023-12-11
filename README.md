@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-dmitr.rod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmitr.rod@gmail.com@gmail.com" alt="Gmail Badge"/>
   <img src="https://komarev.com/ghpvc/?username=VerP404&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNycGxzazZpdXVteXRoMmZjZ3ZxdWJsNWN6Zm1qZms0Y3JqcXdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNycGxzazZpdXVteXRoMmZjZ3ZxdWJsNWN6Zm1qZms0Y3JqcXdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 </div>
 
@@ -51,8 +51,12 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VerP404&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerP404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### ✔️ My Stats CodeWars:
 
 [![codewars](https://www.codewars.com/users/VerP404/badges/large)](https://www.codewars.com/users/VerP404)
+
+

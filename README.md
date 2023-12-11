@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" width="100"/>
 </div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/dmitr_rod-%230095D5.svg?&style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dmitr_rod" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/-dmitr.rod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmitr.rod@gmail.com@gmail.com" alt="Gmail Badge"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=VerP404&style=flat-square&color=blue" alt=""/>
+👨🏻‍💻 About Me:
+

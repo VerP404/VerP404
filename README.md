@@ -3,7 +3,7 @@
 ---
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/dmitr_rod-%230095D5.svg?&style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dmitr_rod" alt="Telegram Badge"/>
+  <img href="https://t.me/dmitr_rod" src="https://img.shields.io/badge/dmitr_rod-%230095D5.svg?&style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dmitr_rod" alt="Telegram Badge"/>
   <img src="https://img.shields.io/badge/-dmitr.rod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmitr.rod@gmail.com@gmail.com" alt="Gmail Badge"/>
   <img src="https://komarev.com/ghpvc/?username=VerP404&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">

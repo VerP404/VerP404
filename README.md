@@ -47,5 +47,12 @@
 
 ---
 
-### :fire: My Stats :
+### ✔️ My Stats GitHub:
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VerP404&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### ✔️ My Stats CodeWars:
+
+[![codewars](https://www.codewars.com/users/VerP404/badges/large)](https://www.codewars.com/users/VerP404)

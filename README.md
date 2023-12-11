@@ -1,30 +1,20 @@
-### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/> I'm Dmitriy Rodionov
+### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/> I'm Dmitry Rodionov backend developer in python
 
-<!--
-**VerP404/VerP404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<div id="badges">css
+<div id="badges" align="center">
   <img src="https://img.shields.io/badge/dmitr_rod-%230095D5.svg?&style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dmitr_rod" alt="Telegram Badge"/>
   <img src="https://img.shields.io/badge/-dmitr.rod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmitr.rod@gmail.com@gmail.com" alt="Gmail Badge"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=VerP404&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=VerP404&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNycGxzazZpdXVteXRoMmZjZ3ZxdWJsNWN6Zm1qZms0Y3JqcXdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="350"/>
 </div>
-👨🏻‍💻 About Me:
+</div>
+
+
+---
+
+### 👨🏻‍💻 About Me:
 <p dir="auto"><animated-image data-catalyst="" style="float: right; width: 50px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" data-target="animated-image.originalLink"><img align="right" src="https://media.giphy.com/media/UtEd87cLAH789bR5sk/giphy.gif" data-canonical-src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" style="width: 70%; max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a></animated-image></p> 
 <ul>
   <li>💻 I'm a Python backend developer;</li>
@@ -35,11 +25,15 @@ Here are some ideas to get you started:
   <li>💡 I solve various problems on CodeWars.</li>
 </ul>
 
+---
+
+### 🔋 Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -51,4 +45,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
 

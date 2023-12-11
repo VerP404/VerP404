@@ -3,8 +3,8 @@
 ---
 
 <div id="badges" align="center">
-  <img href="https://t.me/dmitr_rod" src="https://img.shields.io/badge/dmitr_rod-%230095D5.svg?&style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dmitr_rod" alt="Telegram Badge"/>
-  <img src="https://img.shields.io/badge/-dmitr.rod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmitr.rod@gmail.com@gmail.com" alt="Gmail Badge"/>
+  <a href="https://t.me/dmitr_rod" rel="nofollow"><img src="https://img.shields.io/badge/dmitr_rod-%230095D5.svg?&style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dmitr_rod" alt="Telegram Badge"/></a>
+  <a href="mailto:dmitr.rod@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-dmitr.rod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dmitr.rod@gmail.com@gmail.com" alt="Gmail Badge"/></a>
   <img src="https://komarev.com/ghpvc/?username=VerP404&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNycGxzazZpdXVteXRoMmZjZ3ZxdWJsNWN6Zm1qZms0Y3JqcXdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
